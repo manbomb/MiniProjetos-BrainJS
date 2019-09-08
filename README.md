@@ -1,2 +1,2 @@
 # MiniProjetos-BrainJS
-Alguns poucos arquivos utilizando a biblioteca brain.js.
+Alguns poucos projetos de estudo utilizando a biblioteca brain.js.
